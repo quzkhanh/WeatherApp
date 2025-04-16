@@ -1,16 +1,26 @@
-# app_002_weather_app
+# Weather App
 
-A new Flutter project.
+A simple weather application built with **Flutter** using the **OpenWeather API** to display real-time weather information based on the user's location.
 
-## Getting Started
+## Features
+- Displays current weather information including city name, temperature, weather description, and icon.
+- Fetches the user's location using the `geolocator` package.
+- Handles location permissions gracefully with the `permission_handler` package.
+- Simple and clean UI with loading state and error handling.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+### Main Screen
+![Weather App Main Screen](/home/quzkhanh/Code/FlutterApp/app_002_weather_app/img/Screenshot From 2025-04-16 15-09-51.png)
 
-A few resources to get you started if this is your first Flutter project:
+*(/home/quzkhanh/Code/FlutterApp/app_002_weather_app/img/Screenshot From 2025-04-16 15-09-51.png)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prerequisites
+- **Flutter SDK**: Ensure you have Flutter installed. [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **OpenWeather API Key**: Sign up at [OpenWeatherMap](https://openweathermap.org/) to get your API key.
+- **Android/iOS Emulator or Physical Device**: For testing the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. **Clone the repository**:
+   ```bash
+   git clone <your-repository-url>
+   cd weather_app
