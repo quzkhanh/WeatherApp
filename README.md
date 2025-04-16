@@ -10,10 +10,11 @@ A simple weather application built with **Flutter** using the **OpenWeather API*
 
 ## Screenshots
 ### Main Screen
-![Weather App Main Screen](screenshots/main_screen.png)
+![Weather App Main Screen](img/phone.png)
+![Weather App Main Screen](img/web.png)
 
-*(Add more screenshots here if needed, e.g., loading state, error state)*
-
+### Structure File
+![Structure File](img/structure.png)
 ## Prerequisites
 - **Flutter SDK**: Ensure you have Flutter installed. [Install Flutter](https://flutter.dev/docs/get-started/install)
 - **OpenWeather API Key**: Sign up at [OpenWeatherMap](https://openweathermap.org/) to get your API key.
