@@ -97,4 +97,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspired by various open-source Flutter projects.
 
 ---
-// Author: quzkhanh
+
